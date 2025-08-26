@@ -21,6 +21,7 @@ const App = () => {
       <Marquees />
       <Cards />
       <Footer />
+      <Footer />
     </div>
   );
 };
